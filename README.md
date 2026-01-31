@@ -10,7 +10,7 @@ Bridging the gap between high-level financial logic (Accounting) and industrial 
 
 ## 🏗️ Technical Toolchain (The Rule of Three)
 1. **Low-Level:** Modern C++ (C++17/23) — Memory Safety, OOP, & **Doxygen** (Standard: DIN-Compliant).
-2. [cite_start]**Automation:** Python — Industrial IoT & Middleware (Microsoft & Google [cite: 45] Certified).
+2. **Automation:** Python — Industrial IoT & Middleware (Microsoft & Google [cite: 45] Certified).
 3. **Data Integrity:** Enterprise SQL — Relational Database Administration (**IBM RDB Path**).
 
 ---
