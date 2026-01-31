@@ -1,7 +1,7 @@
 # 🛡️ Systems Architecture & Industrial Logic
-[cite_start]**Candidate:** Anthony Edward Aldea (FieldLogic-sys) [cite: 4]
+**Candidate:** Anthony Edward Aldea (FieldLogic-sys)
 **Trajectory:** MSCS | 1:10 Global Tier Systems Engineer
-[cite_start]**Pedigree:** MBA & BS (Liberty University) [cite: 13] | Certified Industrial Systems Architect
+**Pedigree:** MBA & BS (Liberty University) | Certified Industrial Systems Architect
 
 ## 🎯 Global Mission Objective
 Bridging the gap between high-level financial logic (Accounting) and industrial hardware reliability. Leveraging hands-on expertise as a **Gilbarco & Veeder-Root Specialist** to engineer fault-tolerant systems using **Modern C++ (17/23)**.
@@ -9,38 +9,40 @@ Bridging the gap between high-level financial logic (Accounting) and industrial 
 ---
 
 ## 🏗️ Technical Toolchain (The Rule of Three)
-1. **Low-Level:** Modern C++ (C++17/23) — Memory Safety, OOP, & **Doxygen** (Standard: DIN-Compliant).
-2. **Automation:** Python — Industrial IoT & Middleware (Microsoft & Google [cite: 45] Certified).
+1. **Low-Level:** Modern C++ (C++17/23) — Memory Safety & **Doxygen** (Standard: DIN-Compliant).
+2. **Automation:** Python — Industrial IoT & Middleware (Microsoft & Google Certified).
 3. **Data Integrity:** Enterprise SQL — Relational Database Administration (**IBM RDB Path**).
+
+
 
 ---
 
 ## 📂 Professional Credentials & Infrastructure
-*Grouped by Engineering Domain | Alignment: ISO & Industry Standards.*
+*Grouped by Engineering Domain | Verified via Credly/ACE Transcripts.*
 
 ### 1. CompTIA & Google Stacked "Master Tiers"
-- [cite_start]**CSIS (CompTIA Secure Infrastructure Specialist):** Stacked [A+ / Network+ / Security+][cite: 357].
-- [cite_start]**CIOS (CompTIA IT Operations Specialist):** Stacked [A+ / Network+][cite: 288].
-- [cite_start]**Dual Badge (Sec+):** Google Cybersecurity + CompTIA Security+ (ce)[cite: 365].
-- [cite_start]**Dual Badge (A+):** Google IT Support + CompTIA A+ (ce)[cite: 333].
-- [cite_start]**Project Management:** CompTIA Project+ — Lifecycle, Risk, & Stakeholder Management[cite: 374, 378].
+- **CSIS (CompTIA Secure Infrastructure Specialist):** Stacked [A+ / Network+ / Security+]. [cite_end]
+- **CIOS (CompTIA IT Operations Specialist):** Stacked [A+ / Network+]. [cite_end]
+- **Dual Badge (Sec+):** Google Cybersecurity + CompTIA Security+ (ce). [cite_end]
+- **Dual Badge (A+):** Google IT Support + CompTIA A+ (ce). [cite_end]
+- **Project Management:** CompTIA Project+ — Lifecycle, Risk, & Stakeholder Management. [cite_end]
 
 ### 2. Linux, Automation, & Pedagogy
-- [cite_start]**OS:** LPI Linux Essentials [cite: 294] | [cite_start]Google IT Support Professional[cite: 9].
-- [cite_start]**Python Elite:** Google IT Automation with Python [cite: 45] (Microsoft Python Developer - Verified).
-- **Service Logic:** ITIL® 4 Foundation (Verified Path).
-- **Language Pedagogy:** Arizona State University TEFL (Teaching English as a Foreign Language) - *In Progress*.
+- **OS:** LPI Linux Essentials | Google IT Support Professional. [cite_end]
+- **Python Elite:** Google IT Automation with Python | Microsoft Python Developer. [cite_end]
+- **Service Logic:** ITIL® 4 Foundation — IT Service Management. [cite_end]
+- **Pedagogy:** Arizona State University TEFL (Teaching English as a Foreign Language) - *In Progress*. [cite_end]
 
-### 3. Industrial Infrastructure (The "Hardware" Pillar)
+### 3. Industrial & Heavy Infrastructure (The "Hardware" Pillar)
 - **Heavy Transport:** CDL Class A (Endorsements: Tanker, Doubles, Triples).
 - **Gilbarco Veeder-Root:** Certified Installer & Service Technician (TLS-450PLUS).
 - **Industrial IoT:** Gilbarco Dispenser & FlexPay 6 (Certified Feb 2026).
 - **Regulatory:** Ohio Dept. of Agriculture: Weights & Measures (Calibration Authority).
 
-### 4. Cyber-Physical Defense & Data Science
-- [cite_start]**ISC2 CC:** Certified in Cybersecurity[cite: 25].
-- [cite_start]**Specialist:** IBM Cybersecurity Specialist Professional Certificate[cite: 59].
-- [cite_start]**Data Science:** IBM Data Science Foundations (Level 1 & 2)[cite: 82, 108].
+### 4. Cyber-Physical Defense & AI
+- **ISC2 CC:** Certified in Cybersecurity. [cite_end]
+- **AI Implementation:** Google AI Essentials — Generative AI Workflow Integration. [cite_end]
+- **Specialist:** IBM Cybersecurity Specialist Professional Certificate. [cite_end]
 
 ---
 
